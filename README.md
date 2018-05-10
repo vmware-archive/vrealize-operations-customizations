@@ -4,23 +4,11 @@
 
 ## Overview
 
-## Try it out
-
-### Prerequisites
-
-* Prereq 1
-* Prereq 2
-* Prereq 3
-
-### Build & Run
-
-1. Step 1
-2. Step 2
-3. Step 3
+vRealize Operations provides users the ability to customize content such as reports, dashboards, views and more.  This public repository serves as a collection of community contributions for such content.  
 
 ## Documentation
 
-## Releases & Major Branches
+For importing and exporting content for vRealize Operations, please refer to the documentation for your version.
 
 ## Contributing
 
@@ -30,3 +18,5 @@ questions about the CLA process, please refer to our [FAQ](https://cla.vmware.co
 refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
+
+[LICENSE.txt](LICENSE.txt)
