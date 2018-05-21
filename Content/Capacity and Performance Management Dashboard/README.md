@@ -1,5 +1,6 @@
 # Capacity and Performance Management Dashboard
-![](../../Images/Capacity & Performance Dashboard.png)
+![](Images/CapacityPerformanceDashboard.png)
+
 ---
 Dashboard Name      :       One Click Cluster Capacity Dashboard
 
