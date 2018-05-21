@@ -1,5 +1,5 @@
 # Capacity and Performance Management Dashboard
-![](Images/CapacityPerformanceDashboard.png)
+![](vrealize-operations-customizations/Images/CapacityPerformanceDashboard.png)
 
 ---
 Dashboard Name      :       One Click Cluster Capacity Dashboard
